@@ -4,7 +4,7 @@ I've rebranded to **[@heydanielmolina](https://github.com/heydanielmolina)**.
 
 All my projects now live here → **https://github.com/heydanielmolina**
 
-This account is just a placeholder so the old links don't go to a stranger. See you over there!
+This account is just a placeholder so the old links don't go to a 404. See you over there!
 
 <!--
 **DecodertoMux/DecodertoMux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
